@@ -11,7 +11,7 @@ banner:
 
 # Features
 features:
-  - title: "Info: TODO"
+  - title: "Info: TODO o"
     image: "/images/rachit.jpeg"
     content: "Info about me"
     bulletpoints:
