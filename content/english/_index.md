@@ -18,6 +18,7 @@ features:
       - "one"
       - "two"
       - "three"
+      - "four"
     button:
       enable: false
       label: "Get Started Now"
